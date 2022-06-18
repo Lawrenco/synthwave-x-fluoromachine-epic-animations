@@ -17,13 +17,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1646017/136690694-79e9973b-6d55-40cb-b8d1-4820d2a4ee35.gif" /><br/>
-  <i style="font-size: .8em">legendary TRON underground</i>
-</p>
-<br/><br/>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/1646017/136690891-7bcca587-9489-4a40-ba78-e3b851624dd8.gif" /><br/>
-  <i  style="font-size: .8em">epic neon glowing tooltips and folding effects</i>
+  <img src="synthwave-x-fluoromachine.css - thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13 - Visual Studio Code [Unsupported] 18.06.2022 13_26_43.png" /><br/>
+  <i style="font-size: .8em">Matrix vibe</i>
 </p>
 
 <br/> <br/>
@@ -37,20 +32,19 @@ The job of a software developer is hard and often too serious. You always have t
 
 ## Installation 
 
-Unfortunately, the current installation is a bit complicated. 
-A hassle-free installation is already in development. 
-Until then, the following steps must be performed to install the theme:
+The following steps must be performed to install the theme:
 
-1. Install this theme  
-2. Install [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) vscode extension
-3. Link the CSS file from this extension in your .vscode/settings.json: 
+1. Download the installer "synthwave-installer-0.0.1.vsix"
+2. Run in Vscode terminal: code --install-extension synthwave-installer-0.0.1.vsix (this will install all necessary Extensions)
+3. Switch the theme in the Vscode settings
+4. Link the CSS file from this extension in your .vscode/settings.json: 
 
 ```
 On Mac it might look something like the snippet below:
 
 {
   "vscode_custom_css.imports": [
-    "file:///Users/{your username}/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/synthwave-x-fluoromachine.css",
+    "file:///Users/{your username}/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/synthwave-x-fluoromachine-matrix.css",
     "file:///Users/{your username}/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/epic-80s-transitions.css"
     ]
 }
@@ -59,7 +53,7 @@ Windows might resemble:
 
 {
   "vscode_custom_css.imports": [
-    "file:///C:/Users/{your username}/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/synthwave-x-fluoromachine.css",
+    "file:///C:/Users/{your username}/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/synthwave-x-fluoromachine-matrix.css",
     "file:///C:/Users/{your username}/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/epic-80s-transitions.css"
     ]
 }
@@ -79,13 +73,6 @@ The font being used in the screenshot above is [Operator Mono with Ligatures](ht
 
 ## Contibution
 All contributions are welcome, including issues, new docs as well as updates and tweaks, blog posts, workshops, and more.
-
-
-
-<br/><br/>
-
-## Contact
-Write me on <a href="https://twitter.com/chillya">twitter</a>.
 
 
 <br/><br/>
