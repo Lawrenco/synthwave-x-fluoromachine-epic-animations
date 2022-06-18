@@ -1,4 +1,4 @@
-<h1 align="center" >  Synthwave x Fluoromachine & epic animations <br/><br/>
+<h1 align="center" >  Synthwave x Fluoromachine & epic animations / Matrix Style <br/><br/>
 
 
   <img src="https://img.shields.io/visual-studio-marketplace/i/TheCodemonkey.synthwave-x-fluoromachine-epic-animations?color=%2340eeff&logo=visualstudio&logoColor=%2340eeff&style=flat-square"/>
